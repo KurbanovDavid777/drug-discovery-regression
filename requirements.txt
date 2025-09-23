@@ -8,3 +8,6 @@ rdkit
 seaborn
 matplotlib
 optuna    
+torch
+scikit-learn
+lightgbm
