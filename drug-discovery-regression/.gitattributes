@@ -1,3 +1,0 @@
-data/*.csv filter=lfs diff=lfs merge=lfs -text
-data/result_features_no_fingerprint.csv filter=lfs diff=lfs merge=lfs -text
-data/result_fingerprint_morgan.csv filter=lfs diff=lfs merge=lfs -text
